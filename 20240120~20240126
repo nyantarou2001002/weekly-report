@@ -1,0 +1,89 @@
+# 週報　2024/01/20 ~ 2024/01/26
+
+## 目標
+バックエンドエンジニアとしてメガベンチャー企業でインターンシップを受けた後、多数のメガベンチャー企業に内定をもらう
+
+# マイルストーン
+-2024/1/16
+   - 1on1ミーティング(１回目)
+     
+-2024/1/20~2024/3/20
+   - HTML/CSS
+   - Git
+   - Backend Project 1(File Manipulator Program)
+   - Backend Project 2(Video Compressor)
+   - Frontend 1(Use Card App)
+   - Frontend 4(Library App)
+   - Front Team Dev
+     
+-2024/3/21~2024/5/6
+   - OOP
+   - Database
+   - Backend Project 3(Static Web Server)
+   
+## 今週の予定：やる予定だったこと・目標
+- Task1
+    - 初心者チーム開発(10h)
+
+- Task2
+    - Backend Project1(File Manipulator Program)
+
+        Backend Project1_Guess the number game(1h)
+
+- Task3
+    - LinuxとUbuntuの導入(5h)
+
+## 今週やったこと：実際にやったこと・実稼働
+- Task1
+    - 初心者チーム開発(進行中＿80%)(10h)    
+       
+- Task2
+    - Backend Project1(File Manipulator Program)
+     
+        Backend Project1_Guess the number game(進行中＿95%)(1h)
+        
+- Task3
+    - LinuxとUbuntuの導入(進行中_30%)(10h)
+
+
+## タスクの進捗について
+- 全体
+
+    Task1とTask2はできた。Task3が全くうまく行っていない。
+
+- Task1
+    - 初心者チーム開発
+    
+        予定通りに進んでいて特に問題はない
+
+- Task2
+    - Backend Project1(File Manipulator Program)
+    
+        Backend Project1_Guess the number game
+        
+        コード自体はできているのであとはLinuxを導入するだけ
+
+- Task3
+    - LinuxとUbuntuの導入
+
+       Linuxの導入が全くうまくいかずUSB,VirtualBoxともにできないのでUTMという方法を使いなんとかインストールしたもののすぐにフリーズして使えない。
+
+       Recursionの質問欄で質問する。
+
+## 所感・学び
+週報が初心者チーム開発が終わった後からだと思っていたためCSの復習をメインとして行なった。
+以前まで問題だったCS基礎への理解不足の解消のために解答つきプログラミングサービスであるPaizaで苦手な問題を合計400問解いて理解した。
+またFrontend Projectで必要なJavaScriptについて少し理解するためPaizaのJavaScript入門編を受講し調べながらならFrontendProjectが進められるぐらいには身についた。
+今後、CSについては鹿本と鉄則本をたまに復習したりProjectを進める際に参照する程度にとどめて今後はProjectを進めていこうと考えている
+
+チーム開発では、リーダーというポジションを活用して以下のことを意識して行動できた。
+
+- 全体の進捗を気にする
+- 話しやすい雰囲気を作る
+- 期日に成果物が間に合うようにスケジュール管理をする
+- HTML/CSS/JavaScriptでそれぞれ作ったものの連携をうまくいくようにした
+- それぞれの得意分野を把握し適材適所にタスクを課した
+
+また、今週は個人として以下の経験もできた
+- 設計資料を作成してメンバーと実装イメージを共有する
+- アイデアを出しすぎても実装が大変になりすぎるので適度に制限する必要があることを学んだ
