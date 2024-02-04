@@ -1,0 +1,102 @@
+# 週報　2024/01/20 ~ 2024/01/26
+
+## 目標
+バックエンドエンジニアとしてメガベンチャー企業でインターンシップを受けた後、多数のメガベンチャー企業に内定をもらう
+
+# マイルストーン
+-2024/1/16
+   - 1on1ミーティング(１回目)
+     
+-2024/1/20~2024/3/20
+   - HTML/CSS
+   - Git
+   - Backend Project 1(File Manipulator Program)
+   - Backend Project 2(Video Compressor)
+   - Frontend 1(Use Card App)
+   - Frontend 4(Library App)
+   - Front Team Dev
+     
+-2024/3/21~2024/5/6
+   - OOP
+   - Database
+   - Backend Project 3(Static Web Server)
+   
+## 今週の予定：やる予定だったこと・目標
+- Task1
+    - 初心者チーム開発(10h)
+
+- Task2
+    - Backend Project1(File Manipulator Program)
+
+        Backend Project1_Guess the number game(1h)
+
+- Task3
+    - LinuxとUbuntuの導入(5h)
+
+- Task4
+    - Frontend Project1(User Card App)(20h)
+
+
+- Task5
+    - Frontend Project4(Library App)(20h)
+
+
+
+## 今週やったこと：実際にやったこと・実稼働
+- Task1
+    - 初心者チーム開発終了(10h)    
+       
+- Task2
+    - Backend Project1(File Manipulator Program)
+     
+        Backend Project1_Guess the number game(進行中＿95%)(1h)
+        
+- Task3
+    - LinuxとUbuntuの導入(進行中_30%)(10h)
+
+- Task4
+    - Frontend Project1(User Card App)(20h)終了
+
+
+- Task5
+    - Frontend Project4(Library App)(14h)(進行中＿68%)
+
+
+## タスクの進捗について
+- 全体
+
+    Task1とTask2,4,5はできた。Task3が全くうまく行っていない。
+
+- Task1
+    - 初心者チーム開発
+    
+        無事に終了した。
+
+- Task2
+    - Backend Project1(File Manipulator Program)
+    
+        Backend Project1_Guess the number game
+        
+        コード自体はできているのであとはLinuxを導入するだけ
+
+- Task3
+    - LinuxとUbuntuの導入
+
+       Linuxの導入が全くうまくいかずUSB,VirtualBoxともにできないのでUTMという方法を使いなんとかインストールしたもののすぐにフリーズして使えない。
+
+       Recursionの質問欄で質問したがうまく行かないのでFrontend Project4が終わり次第家族共用のwindowsで行うこととする。
+
+ - Task4
+  - Frontend Project1(User Card App)(20h)終了
+  　　無事に終了した。
+  　　
+- Task5
+    - Frontend Project4(Library App)(14h)(進行中＿68%)
+    　　進んでいるところまでは理解できている。
+
+## 所感・学び
+初心者開発プロジェクトが無事に終わってよかった。
+息抜きとしてAtcorder problemsのA,B問題を合計42問解いた。
+電車の中などでRecursionをさわれないときは鉄則本でCSの復讐をした。
+
+
